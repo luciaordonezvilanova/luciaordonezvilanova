@@ -71,8 +71,8 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
   <img align='left' width='500px' src='https://iili.io/fYtVjf9.png' alt='landing alex lopez phd landing' />
 </a> 
 
-[![GitHub Repo](https://img.shields.io/badge/Budgets%20Repo-gray?style=for-the-badge&logo=github)](https://github.com/Luovtyrell/AlexLopezPHD)
-[![Vercel Demo](https://img.shields.io/badge/Budgets%20live%20demo-black?style=for-the-badge&logo=vercel)](https://alex-lopez-phd.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/Landing%20Repo-gray?style=for-the-badge&logo=github)](https://github.com/Luovtyrell/AlexLopezPHD)
+[![Vercel Demo](https://img.shields.io/badge/Landing%20live%20demo-black?style=for-the-badge&logo=vercel)](https://alex-lopez-phd.vercel.app/)
 
 
 A modern, responsive academic portfolio and landing page designed by me showcasing research, publications, conferences, and projects for Alex Lopez, PhD.
