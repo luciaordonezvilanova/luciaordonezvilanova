@@ -31,30 +31,28 @@ Other jobs:
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <div align="center">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue&theme=dark" height="42px" alt="Vue" /></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="42px" alt="React" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="42px" alt="TypeScript" /></a>
   <a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="42px" alt="JavaScript" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="42px" alt="PHP" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="42px" alt="Tailwind" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass&theme=dark" height="42px" alt="SASS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="42px" alt="Bootstrap" /></a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="42px" alt="HTML" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="42px" alt="CSS" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="42px" alt="Figma" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42px" alt="MySQL" /></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=qt&theme=dark" height="42px" alt="Qt" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=dark" height="42px" alt="Vite" /></a>
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=dark" height="42px" alt="Vitest" /></a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="42px" alt="Jest" /></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=qt&theme=dark" height="42px" alt="Qt" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="42px" alt="Git" /></a>
+</div>
+
+<div align="center">
+  <sub>Also worked with: <code>PHP</code> · <code>MySQL</code> · <code>Oracle</code> · <code>SASS</code> · <code>Bootstrap</code> · <code>Jest</code> · <code>Context API</code> · <code>Nanostores</code> · <code>DaisyUI</code> · <code>Audio DSP</code></sub>
 </div>
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 My Projects
 
 ### 🐸 RibbID — Real-Time Bioacoustics Desktop Engine
 > Native desktop application for real-time amphibian call recognition and digital audio signal processing.
