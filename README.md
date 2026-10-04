@@ -86,7 +86,7 @@ An intelligent movie recommendation tool designed to suggest films tailored to t
 [![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logoColor=black)](#)
 [![SOLID](https://img.shields.io/badge/SOLID%20Architecture-000?style=flat-square)](#)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Luovtyrell/TakeOne-Movie-Recommender)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=flat-square&logo=vercel)](https://take-one-movie-recommender.vercel.app/movie/496243)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=flat-square&logo=vercel)](https://take-one-movie-recommender.vercel.app/)
 
 <br clear="left">
 <br>
