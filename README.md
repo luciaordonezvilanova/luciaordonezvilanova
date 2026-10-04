@@ -63,6 +63,25 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 ## 🆕 My Latest React Projects
 
+## RibbID: Frog Call Identifier 
+> Native bioacoustics application for real-time amphibian call recognition and audio analysis
+
+<img align='left' width='200px' src='https://github.com/user-attachments/assets/ec5cb7f2-51e8-4177-8cc0-00db35b57cb8' alt='RibbID frog call identifier preview' />
+
+[![Private Repo](https://img.shields.io/badge/Repo-Private%20%F0%9F%94%92-gray?style=for-the-badge&logo=github)](#)
+[![Status](https://img.shields.io/badge/Status-In%20Development%20%F0%9F%9A%A7-orange?style=for-the-badge)](#)
+
+A bioacoustics desktop application designed to record, analyze, and identify frog and toad vocalizations. It features live microphone capture and WAV audio file import, real-time DSP visualization (waveform, FFT frequency spectrogram, and audio level metering), and an automated species identification engine that returns confidence scores for detected amphibian species.
+<br>
+
+[![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/)
+[![QML](https://img.shields.io/badge/QML%20%2F%20Qt%20Quick-2CDE85?style=flat-square&logo=qt&logoColor=black)](https://doc.qt.io/qt-6/qtquick-index.html)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![DSP](https://img.shields.io/badge/Audio%20DSP-FF6F00?style=flat-square&logoColor=white)](#)
+
+<br><br><br><br><br><br><br><br><br>
+
 
 ## Alex Lopez PHD landing page:
 > Professional landing page designed by me
