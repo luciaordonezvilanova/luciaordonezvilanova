@@ -24,8 +24,10 @@ I am a **Frontend Developer and UX/UI Designer** based in Barcelona. Currently, 
 Before moving into tech, I spent **10 years managing administrative and legal procedures**, backed by a degree in **Political Science & Public Management (UAB)**. Having dealt with clunky bureaucratic software firsthand, I know how to analyze business rules, talk to users, and build interfaces that reduce friction and prevent input errors.
 
 * 🚀 **Lead Frontend & UX/UI** at *Universitat de Vic - UCC (Innovation Unit)* (Full-time).
-* 🎨 **UX Designer** at *Teclatic* (Part-time).
 * 🏆 **1st Place Winner** at the *Marketplace Hackathon 2024* (Barcelona Activa & Mobile World Capital).
+
+Other jobs:
+* 🎨 **UX Designer** at *Teclatic* (Part-time).
 
 ---
 
